@@ -8,5 +8,6 @@ class App < Sinatra::Base
   GET Power Forward ('pf')
   GET Small Forward ('sf')
   GET Center ('c') 
+end
 
 end
